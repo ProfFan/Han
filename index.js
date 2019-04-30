@@ -1,3 +1,3 @@
 
-module.exports = require( './dist/han' )
+module.exports = require( './demo/han' )
 

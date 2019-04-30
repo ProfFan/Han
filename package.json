@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/ethantw/Han.git"
   },
-  "main": "dist/han.js",
+  "main": "demo/han",
   "keywords": [
     "Hanzi",
     "CJK",
